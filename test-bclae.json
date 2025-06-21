@@ -1,27 +1,27 @@
 [
   {
     "fname": "dw_to_mqtt.js",
-    "title": "Door/Window BLU device reporting to MQTT",
+    "title": "dw_to_mqtt: Door/Window BLU device reporting to MQTT",
     "description": ""
   },
   {
     "fname": "ble_scanner.js",
     "title": "",
-    "description": "iThis script uses the BLE scan functionality in scripting \nWill look for Shelly BLU devices fingerprints in BLE advertisements \nPrints device name and address"
+    "description": "ble_scanner: This script uses the BLE scan functionality in scripting \nWill look for Shelly BLU devices fingerprints in BLE advertisements \nPrints device name and address"
   },
   {
     "fname": "fam_claes_dw.js",
-    "title": "Door/Window BLU device reporting to MQTT",
+    "title": "fam_claes_dw: Door/Window BLU device reporting to MQTT by bclae",
     "description": ""
   },
   {
     "fname": "BLU_Events.js",
-    "title": "BLU device reporting to MQTT",
+    "title": "BLU_Events: BLU device reporting to MQTT",
     "description": ""
   },
   {
     "fname": "x.js",
-    "title": "",
+    "title": "Placeholder",
     "description": ""
   }
 ]
