@@ -1,12 +1,27 @@
 [
   {
-    "fname": "lora-send-no-encryption.js",
-    "title": "Send message over lora without encryption",
-    "description": "This script demonstrates how to send unencrypted LoRa messages using Shelly scripting. (Requires firmware version: 1.6 or newer and LoRa Add-on hardware installed)"
+    "fname": "dw_to_mqtt.js",
+    "title": "Door/Window BLU device reporting to MQTT",
+    "description": ""
   },
   {
-    "fname": "lora-receive-no-encryption.js",
-    "title": "Receive message over lora without encryption",
-    "description": "This script demonstrates how to receive unencrypted LoRa messages using Shelly scripting. (Requires firmware version: 1.6 or newer and LoRa Add-on hardware installed)"
+    "fname": "ble_scanner.js",
+    "title": "",
+    "description": "iThis script uses the BLE scan functionality in scripting \nWill look for Shelly BLU devices fingerprints in BLE advertisements \nPrints device name and address"
+  },
+  {
+    "fname": "fam_claes_dw.js",
+    "title": "Door/Window BLU device reporting to MQTT",
+    "description": ""
+  },
+  {
+    "fname": "BLU_Events.js",
+    "title": "BLU device reporting to MQTT",
+    "description": ""
+  },
+  {
+    "fname": "x.js",
+    "title": "",
+    "description": ""
   }
 ]
